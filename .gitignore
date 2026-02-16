@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+.DS_Store
+*.db
+*.sqlite
+.env
+venv/
+env/
+rag_env/
+*.log
