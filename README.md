@@ -24,14 +24,14 @@ The system runs **completely offline** with no external API dependencies, making
 
 ---
 <h2>Documentations</h2>
-📊 <b>View the project rubric here:</b> 
-<a href="https://github.com/marriammahmed/ACS_RAGSystem/blob/main/Instructions_Building_%20a_RAG_Pipeline-with_LangChain.pdf">Google Slides</a>
+📊 <b>Project rubric:</b> 
+<a href="https://github.com/marriammahmed/ACS_RAGSystem/blob/main/Instructions_Building_%20a_RAG_Pipeline-with_LangChain.pdf">PDF</a>
 
-📊 <b>View the presentation slides here:</b> 
+📊 <b>presentation slides:</b> 
 <a href="https://github.com/marriammahmed/ACS_RAGSystem/blob/main/FinalPresentationRAGPipeline.pptx">Google Slides</a>
 
-📊 <b>View the instructions here:</b> 
-<a href="https://github.com/marriammahmed/ACS_RAGSystem/blob/main/Deployment%20Instructions.md">Google Slides</a>
+📊 <b>Running Instructions:</b> 
+<a href="https://github.com/marriammahmed/ACS_RAGSystem/blob/main/Deployment%20Instructions.md">README</a>
 
 ## ✨ Features
 
