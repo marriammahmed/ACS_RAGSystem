@@ -23,6 +23,15 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline that
 The system runs **completely offline** with no external API dependencies, making it ideal for privacy-sensitive applications.
 
 ---
+<h2>Documentations</h2>
+📊 <b>View the project rubric here:</b> 
+<a href="https://github.com/marriammahmed/ACS_RAGSystem/blob/main/Instructions_Building_%20a_RAG_Pipeline-with_LangChain.pdf">Google Slides</a>
+
+📊 <b>View the presentation slides here:</b> 
+<a href="https://github.com/marriammahmed/ACS_RAGSystem/blob/main/FinalPresentationRAGPipeline.pptx">Google Slides</a>
+
+📊 <b>View the instructions here:</b> 
+<a href="https://github.com/marriammahmed/ACS_RAGSystem/blob/main/Deployment%20Instructions.md">Google Slides</a>
 
 ## ✨ Features
 
